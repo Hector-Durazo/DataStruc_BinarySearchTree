@@ -1,0 +1,478 @@
+Choice		Action
+------		------
+A		Inorder Print
+B		Preorder Print
+C		Postorder Print
+D		Tree Minimum
+E		Tree Maximum
+F		Tree Predecessor
+G		Tree Successor
+H		Tree Search
+I		Tree Insert
+J		Right Rotation
+K		Left Rotation
+Q		Quit
+?		Display Help
+
+What action would you like to perform?
+tree is empty
+What action would you like to perform?
+tree is empty
+What action would you like to perform?
+tree is empty
+What action would you like to perform?
+tree is empty
+What action would you like to perform?
+tree is empty
+What action would you like to perform?
+Please enter a club name to find its predecessor:
+Please enter a university name to find its predecessor:
+Gaming Club at Arizona State University does not have any predecessor
+What action would you like to perform?
+Please enter a club name to find its successor:
+Please enter a university name to find its successor:
+Softball Club at University of Arizona does not have any successor
+What action would you like to perform?
+Please enter a club name to search:
+Please enter a university name to search:
+Computer Club at University of Utah not found
+What action would you like to perform?
+Please enter a clubName to right-rotate:
+Please enter a universityName to right-rotate:
+Right Rotation cannot be performed around Hiking Club at University of New Mexico
+What action would you like to perform?
+Please enter a clubName to left-rotate:
+Please enter a universityName to left-rotate:
+Left Rotation cannot be performed around Baseball Club at Arizona State University
+What action would you like to perform?
+Please enter a clubName/universityName to insert:
+Enter a club name
+Enter its university name
+Softball Club at University of Arizona inserted
+What action would you like to perform?
+Please enter a clubName/universityName to insert:
+Enter a club name
+Enter its university name
+Baseball Club at Arizona State University inserted
+What action would you like to perform?
+Please enter a clubName/universityName to insert:
+Enter a club name
+Enter its university name
+Surfing Club at University of Hawaii inserted
+What action would you like to perform?
+Please enter a clubName/universityName to insert:
+Enter a club name
+Enter its university name
+Hiking Club at Oregon State University inserted
+What action would you like to perform?
+Please enter a clubName/universityName to insert:
+Enter a club name
+Enter its university name
+Swimming Club at Arizona State University inserted
+What action would you like to perform?
+Please enter a clubName/universityName to insert:
+Enter a club name
+Enter its university name
+Computer Club at University of Arizona inserted
+What action would you like to perform?
+Please enter a clubName/universityName to insert:
+Enter a club name
+Enter its university name
+Gaming Club at University of New Mexico inserted
+What action would you like to perform?
+
+Club Name: Baseball Club
+University Name: Arizona State University
+
+Club Name: Swimming Club
+University Name: Arizona State University
+
+Club Name: Hiking Club
+University Name: Oregon State University
+
+Club Name: Computer Club
+University Name: University of Arizona
+
+Club Name: Softball Club
+University Name: University of Arizona
+
+Club Name: Surfing Club
+University Name: University of Hawaii
+
+Club Name: Gaming Club
+University Name: University of New Mexico
+
+
+What action would you like to perform?
+
+Club Name: Softball Club
+University Name: University of Arizona
+
+Club Name: Baseball Club
+University Name: Arizona State University
+
+Club Name: Hiking Club
+University Name: Oregon State University
+
+Club Name: Swimming Club
+University Name: Arizona State University
+
+Club Name: Computer Club
+University Name: University of Arizona
+
+Club Name: Surfing Club
+University Name: University of Hawaii
+
+Club Name: Gaming Club
+University Name: University of New Mexico
+
+
+What action would you like to perform?
+
+Club Name: Swimming Club
+University Name: Arizona State University
+
+Club Name: Computer Club
+University Name: University of Arizona
+
+Club Name: Hiking Club
+University Name: Oregon State University
+
+Club Name: Baseball Club
+University Name: Arizona State University
+
+Club Name: Gaming Club
+University Name: University of New Mexico
+
+Club Name: Surfing Club
+University Name: University of Hawaii
+
+Club Name: Softball Club
+University Name: University of Arizona
+
+
+What action would you like to perform?
+Please enter a club name to find its predecessor:
+Please enter a university name to find its predecessor:
+The predecessor of Surfing Club at University of Hawaii is
+Club Name: Softball Club
+University Name: University of Arizona
+
+
+What action would you like to perform?
+Please enter a club name to find its successor:
+Please enter a university name to find its successor:
+Skiing Club at University of Utah does not have any successor
+What action would you like to perform?
+The first club is
+Club Name: Baseball Club
+University Name: Arizona State University
+
+
+What action would you like to perform?
+The last club is
+Club Name: Gaming Club
+University Name: University of New Mexico
+
+
+What action would you like to perform?
+Please enter a club name to search:
+Please enter a university name to search:
+Swimming Club at University of Arizona not found
+What action would you like to perform?
+Please enter a club name to search:
+Please enter a university name to search:
+Swimming Club at Arizona State University found
+What action would you like to perform?
+Please enter a clubName/universityName to insert:
+Enter a club name
+Enter its university name
+Skiing Club at University of Utah inserted
+What action would you like to perform?
+Please enter a clubName/universityName to insert:
+Enter a club name
+Enter its university name
+Volleyball Club at New Mexico State University inserted
+What action would you like to perform?
+Please enter a clubName to right-rotate:
+Please enter a universityName to right-rotate:
+Right Rotation cannot be performed around Archery Club at Arizona State University
+What action would you like to perform?
+Please enter a clubName to right-rotate:
+Please enter a universityName to right-rotate:
+Right Rotation around Hiking Club at Oregon State University is successful
+What action would you like to perform?
+
+Club Name: Softball Club
+University Name: University of Arizona
+
+Club Name: Baseball Club
+University Name: Arizona State University
+
+Club Name: Swimming Club
+University Name: Arizona State University
+
+Club Name: Hiking Club
+University Name: Oregon State University
+
+Club Name: Volleyball Club
+University Name: New Mexico State University
+
+Club Name: Computer Club
+University Name: University of Arizona
+
+Club Name: Surfing Club
+University Name: University of Hawaii
+
+Club Name: Gaming Club
+University Name: University of New Mexico
+
+Club Name: Skiing Club
+University Name: University of Utah
+
+
+What action would you like to perform?
+
+Club Name: Volleyball Club
+University Name: New Mexico State University
+
+Club Name: Computer Club
+University Name: University of Arizona
+
+Club Name: Hiking Club
+University Name: Oregon State University
+
+Club Name: Swimming Club
+University Name: Arizona State University
+
+Club Name: Baseball Club
+University Name: Arizona State University
+
+Club Name: Skiing Club
+University Name: University of Utah
+
+Club Name: Gaming Club
+University Name: University of New Mexico
+
+Club Name: Surfing Club
+University Name: University of Hawaii
+
+Club Name: Softball Club
+University Name: University of Arizona
+
+
+What action would you like to perform?
+Please enter a clubName to left-rotate:
+Please enter a universityName to left-rotate:
+Left Rotation around Surfing Club at University of Hawaii is successful
+What action would you like to perform?
+
+Club Name: Baseball Club
+University Name: Arizona State University
+
+Club Name: Swimming Club
+University Name: Arizona State University
+
+Club Name: Volleyball Club
+University Name: New Mexico State University
+
+Club Name: Hiking Club
+University Name: Oregon State University
+
+Club Name: Computer Club
+University Name: University of Arizona
+
+Club Name: Softball Club
+University Name: University of Arizona
+
+Club Name: Surfing Club
+University Name: University of Hawaii
+
+Club Name: Gaming Club
+University Name: University of New Mexico
+
+Club Name: Skiing Club
+University Name: University of Utah
+
+
+What action would you like to perform?
+
+Club Name: Softball Club
+University Name: University of Arizona
+
+Club Name: Baseball Club
+University Name: Arizona State University
+
+Club Name: Swimming Club
+University Name: Arizona State University
+
+Club Name: Hiking Club
+University Name: Oregon State University
+
+Club Name: Volleyball Club
+University Name: New Mexico State University
+
+Club Name: Computer Club
+University Name: University of Arizona
+
+Club Name: Gaming Club
+University Name: University of New Mexico
+
+Club Name: Surfing Club
+University Name: University of Hawaii
+
+Club Name: Skiing Club
+University Name: University of Utah
+
+
+What action would you like to perform?
+
+Club Name: Volleyball Club
+University Name: New Mexico State University
+
+Club Name: Computer Club
+University Name: University of Arizona
+
+Club Name: Hiking Club
+University Name: Oregon State University
+
+Club Name: Swimming Club
+University Name: Arizona State University
+
+Club Name: Baseball Club
+University Name: Arizona State University
+
+Club Name: Surfing Club
+University Name: University of Hawaii
+
+Club Name: Skiing Club
+University Name: University of Utah
+
+Club Name: Gaming Club
+University Name: University of New Mexico
+
+Club Name: Softball Club
+University Name: University of Arizona
+
+
+What action would you like to perform?
+Please enter a clubName to left-rotate:
+Please enter a universityName to left-rotate:
+Left Rotation cannot be performed around Skiing Club at University of Utah
+What action would you like to perform?
+
+Club Name: Baseball Club
+University Name: Arizona State University
+
+Club Name: Swimming Club
+University Name: Arizona State University
+
+Club Name: Volleyball Club
+University Name: New Mexico State University
+
+Club Name: Hiking Club
+University Name: Oregon State University
+
+Club Name: Computer Club
+University Name: University of Arizona
+
+Club Name: Softball Club
+University Name: University of Arizona
+
+Club Name: Surfing Club
+University Name: University of Hawaii
+
+Club Name: Gaming Club
+University Name: University of New Mexico
+
+Club Name: Skiing Club
+University Name: University of Utah
+
+
+What action would you like to perform?
+
+Club Name: Softball Club
+University Name: University of Arizona
+
+Club Name: Baseball Club
+University Name: Arizona State University
+
+Club Name: Swimming Club
+University Name: Arizona State University
+
+Club Name: Hiking Club
+University Name: Oregon State University
+
+Club Name: Volleyball Club
+University Name: New Mexico State University
+
+Club Name: Computer Club
+University Name: University of Arizona
+
+Club Name: Gaming Club
+University Name: University of New Mexico
+
+Club Name: Surfing Club
+University Name: University of Hawaii
+
+Club Name: Skiing Club
+University Name: University of Utah
+
+
+What action would you like to perform?
+
+Club Name: Volleyball Club
+University Name: New Mexico State University
+
+Club Name: Computer Club
+University Name: University of Arizona
+
+Club Name: Hiking Club
+University Name: Oregon State University
+
+Club Name: Swimming Club
+University Name: Arizona State University
+
+Club Name: Baseball Club
+University Name: Arizona State University
+
+Club Name: Surfing Club
+University Name: University of Hawaii
+
+Club Name: Skiing Club
+University Name: University of Utah
+
+Club Name: Gaming Club
+University Name: University of New Mexico
+
+Club Name: Softball Club
+University Name: University of Arizona
+
+
+What action would you like to perform?
+Please enter a club name to find its predecessor:
+Please enter a university name to find its predecessor:
+The predecessor of Skiing Club at University of Utah is
+Club Name: Gaming Club
+University Name: University of New Mexico
+
+
+What action would you like to perform?
+Please enter a club name to find its successor:
+Please enter a university name to find its successor:
+Hiking Club at New Mexico State University does not have any successor
+What action would you like to perform?
+The first club is
+Club Name: Baseball Club
+University Name: Arizona State University
+
+
+What action would you like to perform?
+The last club is
+Club Name: Skiing Club
+University Name: University of Utah
+
+
+What action would you like to perform?
+The number of nodes deleted: 9
+---

@@ -1,0 +1,94 @@
+A
+B
+C
+D
+E
+F
+Gaming Club
+Arizona State University
+G
+Softball Club
+University of Arizona
+H
+Computer Club
+University of Utah
+J
+Hiking Club
+University of New Mexico
+K
+Baseball Club
+Arizona State University
+I
+Softball Club
+University of Arizona
+I
+Baseball Club
+Arizona State University
+I
+Surfing Club
+University of Hawaii
+I
+Hiking Club
+Oregon State University
+I
+Swimming Club
+Arizona State University
+I
+Computer Club
+University of Arizona
+I
+Gaming Club
+University of New Mexico
+A
+B
+C
+F
+Surfing Club
+University of Hawaii
+G
+Skiing Club
+University of Utah
+D
+E
+H
+Swimming Club
+University of Arizona
+H
+Swimming Club
+Arizona State University
+I
+Skiing Club
+University of Utah
+I
+Volleyball Club
+New Mexico State University
+J
+Archery Club
+Arizona State University
+J
+Hiking Club
+Oregon State University
+B
+C
+K
+Surfing Club
+University of Hawaii
+A
+B
+C
+K
+Skiing Club
+University of Utah
+A
+B
+C
+F
+Skiing Club
+University of Utah
+G
+Hiking Club
+New Mexico State University
+D
+E
+Q
+
